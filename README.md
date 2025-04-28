@@ -27,7 +27,7 @@ Fakebook is a lightweight, and interactive social media clone built using React 
 
 
 ## Features
-- **Responsive Design**: Optimized for various screen sizes.
+
 - **Material-UI Components**: Uses Material-UI for a modern and consistent UI.
 
 
@@ -94,7 +94,7 @@ Fakebook is a lightweight, and interactive social media clone built using React 
 - **Frontend**:
   - React 
   - Material-UI (MUI) for styling and icons
-  - Emotion (CSS-in-JS library for MUI)
+
 
 
 - **Performance Monitoring**:
